@@ -20,9 +20,9 @@ Videos que muestran la conexión de sensores/actuadores
 | 13 | KY-006 | [Ver video](https://drive.google.com/file/d/14D_lgwTysO5g-22gAyZFE69jdplXGS33/view?usp=sharing) | [KY-006.py](codigo/KY-006.py) |
 | 14 | KY-034 | [Ver video](https://drive.google.com/file/d/1CxXsr7DM3sdiqHtsZX2Eg3Lua675hFSs/view?usp=sharing) | [KY-034.py](codigo/KY-034.py) |
 | 15 | KY-011 | [Ver video](https://drive.google.com/file/d/1tmqQKJ_hNSHriCRIn8_mbgOIk8qrLHfw/view?usp=sharing) | [KY-011.py](codigo/KY-011.py) |
-| 16 | KY- | [Ver video]() |  |
-| 17 | KY- | [Ver video]() |  |
-| 18 | KY- | [Ver video]() |  |
+| 16 | KY-031 | [Ver video](https://drive.google.com/file/d/1c_4Rx7D3c0KqDbPZL68HboJxjYtl7IWz/view?usp=sharing) | [KY-031.py](codigo/KY-031.py) |
+| 17 | KY-032 | [Ver video](https://drive.google.com/file/d/1Zodwq9XAb9i_Gf69dihqbwVK8YZR21WK/view?usp=sharing) | [KY-032.py](codigo/KY-032.py) |
+| 18 | KY-027 | [Ver video](https://drive.google.com/file/d/1W1o04VexzoF1o5-ePPVWOyPYf7VxCDAY/view?usp=sharing) | [KY-027.py](codigo/KY-027.py) |
 | 19 | KY- | [Ver video]() |  |
 | 20 | KY- | [Ver video]() |  |
 | 21 | KY- | [Ver video]() |  |
