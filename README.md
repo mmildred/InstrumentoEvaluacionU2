@@ -25,13 +25,14 @@ Videos que muestran la conexión de sensores/actuadores
 | 16 | KY-031 | [Ver video](https://drive.google.com/file/d/1c_4Rx7D3c0KqDbPZL68HboJxjYtl7IWz/view?usp=sharing) | [KY-031.py](codigo/KY-031.py) |![image](https://github.com/user-attachments/assets/b89c3adf-b25a-4841-9a1d-4dcbab484e82)|
 | 17 | KY-032 | [Ver video](https://drive.google.com/file/d/1Zodwq9XAb9i_Gf69dihqbwVK8YZR21WK/view?usp=sharing) | [KY-032.py](codigo/KY-032.py) |![image](https://github.com/user-attachments/assets/2754a82d-c7eb-45fc-a1d4-a093a8d47f89)|
 | 18 | KY-027 | [Ver video](https://drive.google.com/file/d/1W1o04VexzoF1o5-ePPVWOyPYf7VxCDAY/view?usp=sharing) | [KY-027.py](codigo/KY-027.py) |![image](https://github.com/user-attachments/assets/e6d9509d-ec1d-4876-b38c-b215e3b18327)|
-| 19 | KY- | [Ver video]() |  |
-| 20 | KY- | [Ver video]() |  |
-| 21 | KY- | [Ver video]() |  |
-| 22 | KY- | [Ver video]() |  |
-| 23 | KY- | [Ver video]() |  |
-| 24 | KY- | [Ver video]() |  |
-| 25 | KY- | [Ver video]() |  |
+| 19 | KY-002 | [Ver video](https://drive.google.com/file/d/1xAktijpCRsXXRSEZKQqapqhNtfyvoTYM/view?usp=sharing) |  [KY-002.py](codigo/KY-002.py) |![image](https://github.com/user-attachments/assets/952f93a2-6a63-488a-8e9f-52db19db6388)|
+| 20 | KY-003 | [Ver video](https://drive.google.com/file/d/12ym7oj-L3Vu9UnjnyO0eg4NJzKRTx3Pe/view?usp=sharing) |  [KY-003.py](codigo/KY-003.py) |![image](https://github.com/user-attachments/assets/ffc4f7f0-8608-40da-bcf7-249924fda61a)|
+| 21 | KY-017 | [Ver video](https://drive.google.com/file/d/1Fqyed3ISjLxoEAC2vFNEcygII5Synm7t/view?usp=sharing) |  [KY-017.py](codigo/KY-017.py) |![image](https://github.com/user-attachments/assets/bebdd780-10e1-4b75-84fe-533eb78412eb)|
+| 22 | KY-028 | [Ver video](https://drive.google.com/file/d/169wHJdo-fwzTVy9ybWN_Uj-F5QPDGxF1/view?usp=sharing) |  [KY-028.py](codigo/KY-028.py) |![image](https://github.com/user-attachments/assets/0f2d0701-5ee9-44ad-bebb-d64e6a4f54f8)|
+| 23 | KY-035 | [Ver video](https://drive.google.com/file/d/1PPmQfJtMlhxovsucmIconIcWNLDPm90g/view?usp=sharing) |  [KY-035.py](codigo/KY-035.py) |![image](https://github.com/user-attachments/assets/5c352f97-90ec-4bae-9bba-047fdf6c4327)|
+| 24 | KY-039 | [Ver video](https://drive.google.com/file/d/15ooWsKMmzif1g7mlSeIxU6OVhB1-Gxse/view?usp=sharing) |  [KY-039.py](codigo/KY-039.py) |![image](https://github.com/user-attachments/assets/b3967e7f-ada8-4ffc-b0f1-537668d67cec)|
+| 25 | KY-021 | [Ver video](https://drive.google.com/file/d/15ooWsKMmzif1g7mlSeIxU6OVhB1-Gxse/view?usp=sharing) |  [KY-021.py](codigo/KY-021.py) |![image](https://github.com/user-attachments/assets/6d52328c-6299-4883-bf1f-1dcd4f84cfe0)|
+
 
 ## Ejercicio de soldadura
 ![image](https://github.com/user-attachments/assets/c7cd9cee-353e-4357-90b8-29e7487f450d)
