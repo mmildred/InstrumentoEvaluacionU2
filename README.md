@@ -1,6 +1,6 @@
 # InstrumentoEvaluacionU2
 
-## Flujo [JSON](node-red/FlujoNode-RedSensores.json)
+## Flujo [JSON](node-red.json)
 
 ## Videos
 Videos que muestran la conexión de sensores/actuadores
